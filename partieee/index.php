@@ -7,7 +7,7 @@
     <link href="/assets/bootstrap.partieee.css" rel="stylesheet">
     <!-- Content Row -->
 
-
+    <!-- TODO do we still want this video? -->
     <div class="fullscreen-bg">
     <video loop muted autoplay poster="images/Genie.jpg" id="bg-vid" class="fullscreen-bg__video">
         <source src="videos/backgroundl" type="video/webm">
@@ -20,6 +20,7 @@
     </script>
         <div class="row well nopad">
         <div class="col-lg-12 nopad">
+        <!-- TODO get update images from Nathan -->
             <!-- Header Carousel -->
             <header id="myCarousel" class="carousel slide card-2">
                 <!-- Wrapper for slides -->
@@ -38,8 +39,8 @@
 			<p>The Purdue Aerial Robotics Team IEEE was founded back in 1996 as a committee within the Purdue IEEE
                 Student Organization. The team's mission is to create an Unmanned Aerial System (UAS) to compete in the
                 Association for Unmanned Vehicle Systems International Student Unmanned Air Systems (AUVSI SUAS)
-                Competition. This competition will take place in Webster Field, Maryland in 2020. The team, consisting
-                of AeroMechanical, Electrical, and Software sub-teams, develops a comprehensive system that performs
+                Competition. This competition will take place in Webster Field, Maryland in 2021. The team, consisting
+                of Aeromechanical, Electrical, and Software sub-teams, develops a comprehensive system that performs
                 various autonomous tasks.
 			<br /><br />
 			The Aerial Robotics Team consists of both engineering and non-engineering focuses. The engineering goals are
@@ -61,11 +62,12 @@
             <h1 id="officers">Contact Us</h1>
             <hr />
             <div class="row text-center">
-                <!--Alex-->
-                <img src="../images/officers/2019_Zhang_Alex.jpg" alt= "" class="img-circle" width=250px height=250px />
-                <h4>Alex Zhang</h4>
-                <p>Captain</p>
-                <p><a href="mailto:zhan2926@purdue.edu">zhan2926@purdue.edu</a><br /></p>
+                <!--Nathan Broman-->
+                <!--TODO wait for website update
+                <img src="../images/officers/2020_Nathan_Broman.jpg" alt= "2020_Nathan_Broman" class="img-circle" width=250px height=250px />-->
+                <h4>Nathan Broman</h4>
+                <p>Aerial Robotics Captain</p>
+                <p><a href="mailto:nbroman@purdue.edu">nbroman@purdue.edu</a><br /></p>
             </div>
                         <hr />
                         <h2>Officers</h2>
@@ -77,24 +79,24 @@
                                                     <h4>Nathan Broman</h4>
                                                     <p>Project Lead</p>
                                                 </div>
-                                                <!--Steven Lim-->
-                                                <div class= "col-md-2">
-                                                    <h4>Steven Lim</h4>
-                                                    <p>Aeromechanical Lead</p>
-                                                </div>
-                                                <!--Alex Gokan-->
-                                                <div class= "col-md-2">
-                                                    <h4>Alex Gokan</h4>
-                                                    <p>Software Lead</p>
-                                                </div>
-                                                <!--Akshay Aravind-->
-                                                <div class= "col-md-2">
-                                                    <h4>Akshay Aravind</h4>
-                                                    <p>Electrical Lead</p>
-                                                </div>
                                                 <!--Dakota Do-->
                                                 <div class= "col-md-2">
                                                     <h4>Dakota Do</h4>
+                                                    <p>Aeromechanical Lead</p>
+                                                </div>
+                                                <!--Alex Rodgers-->
+                                                <div class= "col-md-2">
+                                                    <h4>Alex Rodgers</h4>
+                                                    <p>Software Lead</p>
+                                                </div>
+                                                <!--Hadi Ahmed-->
+                                                <div class= "col-md-2">
+                                                    <h4>Hadi Ahmed</h4>
+                                                    <p>Electrical Lead</p>
+                                                </div>
+                                                <!--Alex Zhang-->
+                                                <div class= "col-md-2">
+                                                    <h4>Alex Zhang</h4>
                                                     <p>Sponsorship Coordinator</p>
                                                 </div>
                         </div>

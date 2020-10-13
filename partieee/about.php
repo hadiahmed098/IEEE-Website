@@ -9,6 +9,7 @@
     <link href="/assets/bootstrap.partieee.css" rel="stylesheet">
     <!-- Content Row -->
 
+    <!-- TODO do we still want the video? -->
     <div class="fullscreen-bg">
     <video loop muted autoplay poster="images/Genie.jpg" id="bg-vid" class="fullscreen-bg__video">
         <source src="videos/backgroundl" type="video/webm">
@@ -24,13 +25,10 @@
                 <hr />
                 <div class="row">
                     <div class= "col-md-4">
-                        <h4>Milan Bidare</h4>
-                        <p>Captain<br /><br /></p>
+                        <h4>Nathan Broman</h4>
+                        <p>Aerial Robotics Captain<br /><br /></p>
                     </div>
-                    <div class= "col-md-4">
-                        <h4>Mark Benati</h4>
-                        <p>Vice-Captain<br /><br /></p>
-                    </div>
+                    <!-- TODO Is there a project lead? -->
                     <div class="col-md-4">
                         <h4>Humza Nasir</h4>
                         <p>Project Lead<br /><br /></p>
@@ -39,20 +37,20 @@
                 <br />
                 <div class="row">
                     <div class= "col-md-4">
-                        <h4>Jacob Cottrell</h4>
-                        <p>Sponsorship Coordinator<br /><br /></p>
+                        <h4>Dakota Do</h4>
+                        <p>Aeromechanical Lead<br /><br /></p>
                     </div>
                     <div class= "col-md-4">
-                        <h4>Brian Helfrecht</h4>
+                        <h4>Hadi Ahmed</h4>
                         <p>Electrical Lead<br /><br /></p>
                     </div>
                     <div class= "col-md-4">
-                        <h4>Chris Jovanovic</h4>
+                        <h4>Alex Rodgers</h4>
                         <p>Software Lead<br /><br /></p>
                     </div>
                     <div class= "col-md-4">
-                        <h4>Prateek Chamakura</h4>
-                        <p>AeroMechanical Lead<br /><br /></p>
+                        <h4>Alex Zhang</h4>
+                        <p>Sponsership Lead<br /><br /></p>
                     </div>
                 </div>
 

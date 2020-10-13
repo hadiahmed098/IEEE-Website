@@ -40,7 +40,7 @@
         <h1 id="events">Acknowledgement</h1>
         <br />
     </div>
-    <div class "row-text-list" style="padding-left: 30%;">
+    <div class="row-text-list" style="padding-left: 30%;">
         <p>We recognize corporate sponsors in the following ways:</p>
         <ul>
             <li>Aerial Robotics Partner Colonel: $3,500</li>
@@ -75,9 +75,9 @@
         <div style="padding-left: 34%;">
             <div class="center-box">
                 <h2 id="events">CONTACT:</h2>
-                <h4 id="events">Dakota Do</h4>
+                <h4 id="events">Alex Zhang</h4>
                 <h4 id="events">Sponsorship Coordinator</h4>
-                <h4 id="events"><a href="mailto:do18@purdue.edu">do18@purdue.edu</a>
+                <h4 id="events"><a href="mailto:zhan2926@purdue.edu">do18@purdue.edu</a>
             </div>
 
         </div>
