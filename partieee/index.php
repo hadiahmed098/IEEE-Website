@@ -20,18 +20,22 @@
         <div class="col-md-7 text-dark col-md-offset-1 text-center">
             <img src="images/part_logo_rect.png" />
             <h2 id="mission">Mission</h2>
-            <hr />
             <p>
 			The Purdue Aerial Robotics Team mission is to create an Unmanned Aerial System (UAS) to compete in the
-            Association for Unmanned Vehicle Systems International Student Unmanned Air Systems (AUVSI SUAS)
-            Competition. This competition will take place in Webster Field, Maryland in 2021. The team consists
-            of Aeromechanical, Electrical, and Software sub-teams.
+                Association for Unmanned Vehicle Systems International Student Unmanned Air Systems (AUVSI SUAS)
+                Competition. This competition will take place in Webster Field, Maryland in 2021. The team consists
+                of Aeromechanical, Electrical, and Software sub-teams.
             </p>
-
+            <hr />
+            <h2 class="text-center">Join</h2>
+            Our team takes any student, reguardless of major, experience, or class. To join, sign up for our Slack at <a href="https://partieee.slack.com">https://partieee.slack.com</a>. 
+                If you have any questions, please email us at <a href="mailto:partieee@purdueieee.org">partieee@purdueieee.org</a>.
+            <hr />
             <h2 class="text-center">2019-21 Competition UAV</h2>
             <img src="images/uav_2020.jpg" alt="2020-21 Competition UAV" style="width:100%" class="img-rounded">
 
             <br />
+            <hr />
             <div class="well card-1 text-dark">
             <div class="row text-center">
             <h2 id="officers">Leadership</h2>
@@ -42,7 +46,6 @@
                 <h4>Nathan Broman</h4>
                 <em>Aerospace Engineering</em>
                 <p>Aerial Robotics Captain</p>
-                <p><a href="mailto:nbroman@purdue.edu">nbroman@purdue.edu</a><br /></p>
             <hr />
                 <div class="row text-center">
                     <!--Dakota Do-->
