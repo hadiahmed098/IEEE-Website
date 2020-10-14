@@ -1,3 +1,21 @@
+<p>The Purdue Aerial Robotics Team IEEE (PARTIEEE) was founded back in 1996 as a committee within the Purdue IEEE
+                Student Organization.
+			<br /><br />
+			Purdue Aerial Robotics Team consists of both engineering and non-engineering focuses. The engineering goals are
+                to create mathematical and physical models, construct prototypes, and develop a final, mission-ready
+                system. The non-engineering goals are to develop relationships with companies, encourage a collaborative
+                work environment, communicate effectively with team members, and provide learning opportunities for
+                students of any discipline and experience level. Achieving these goals will help us develop a UAS that
+                meets the rigorous standards demanded by the competition, in order to succeed as a team.
+			<br /><br />
+			Purdue Aerial Robotics Team prides itself on its student leadership, perseverance, and desire to excel in
+                all frontiers. Furthermore, team members are constantly striving to learn the technical skills necessary
+                to bring the design to fruition, including 3D-modeling in SolidWorks and CATIA V5, designing the PCB in
+                Eagle Pro, and programming in C, C++, Python, MATLAB, and JavaScript.
+            </p>
+
+
+
 <?php
     $site_title = 'Aerial Robotics';
     $site_index = '/partieee';
