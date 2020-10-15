@@ -1,8 +1,10 @@
 <?php
-    $site_title = 'Aerial Robotics';
+    $site_title = 'IEEE Aerial Robotics';
     $site_index = '/partieee';
     include '../header.php';
 ?>
+
+<link href="/assets/bootstrap.partieee.css" rel="stylesheet">
 
 <!-- Content Row -->
 <div class="well card-1">
@@ -50,7 +52,7 @@
             and publicizing your visits to campus.
         </p>
         <div class="center-box">
-            <h2 id="events">Contact:</h2>
+            <h3 id="events">Contact:</h3>
             <h4 id="events">Alex Zhang</h4>
             <h4 id="events">Sponsorship Coordinator</h4>
             <h4 id="events"><a href="mailto:zhan2926@purdue.edu">zhan2926@purdue.edu</a>

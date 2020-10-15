@@ -1,10 +1,10 @@
 <?php
-    $site_title = 'Aerial Robotics';
+    $site_title = 'IEEE Aerial Robotics';
     $site_index = '/partieee';
     include '../header.php';
 ?>
 
-<!-- TODO get better color scheme <link href="/assets/bootstrap.partieee.css" rel="stylesheet"> -->
+<link href="/assets/bootstrap.partieee.css" rel="stylesheet">
 
 <!-- Content Row -->
 <div class="well card-1">
