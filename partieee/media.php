@@ -30,8 +30,8 @@
             <h2 class="text-center">Social Media</h2>
             Below is where you can find PART on social media.
             <br/><br />
-            <a style="padding: 5px;" href="https://www.youtube.com/channel/UCDyoVLkPq5463PZMnQ-G2hA/"><i class="fa fa-youtube-square fa-5x"></i></a>
-            <a style="padding: 5px;" href="https://www.instagram.com/purdueaerialrobotics/"><i class="fa fa-instagram fa-5x"></i></a>
+            <a style="padding: 5px;" href="https://www.youtube.com/channel/UCDyoVLkPq5463PZMnQ-G2hA/" target="_blank"><i class="fa fa-youtube-square fa-5x"></i></a>
+            <a style="padding: 5px;" href="https://www.instagram.com/purdueaerialrobotics/" target="_blank"><i class="fa fa-instagram fa-5x"></i></a>
         </div>
     </div>
 </div>
