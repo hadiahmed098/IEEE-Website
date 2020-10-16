@@ -61,6 +61,12 @@
                         <em>Computer Engineering</em>
                         <p>Electrical Lead</p>
                     </div>
+                    <!--Tyler Fedrizzi-->
+                    <div class= "col-md-4">
+                        <h4>Tyler Fedrizzi</h4>
+                        <em>Computer Engineering</em>
+                        <p>Autonomy Lead</p>
+                    </div>
                     <!--Alex Zhang-->
                     <div class= "col-md-4">
                         <h4>Alex Zhang</h4>
@@ -73,7 +79,7 @@
             <hr />
             <div class="row text-center">
                 <h2 id="events">Sub-teams</h2>
-
+                <!-- TODO need aeromech blub -->
                 <h3>Aeromechanical</h3>
                 <p>
                 The AeroMechanical sub-team of Purdue Aerial Robotics Team designs, builds, and tests a safe, 

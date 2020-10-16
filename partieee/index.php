@@ -31,8 +31,8 @@
             Our team takes any student, reguardless of major, experience, or class. To join, sign up for our Slack at <a href="https://partieee.slack.com">https://partieee.slack.com</a>. 
                 If you have any questions, please email us at <a href="mailto:partieee@purdueieee.org">partieee@purdueieee.org</a>.
             <hr />
-            <h2 class="text-center">2019-21 Competition UAV</h2>
-            <img src="images/uav_2020.jpg" alt="2020-21 Competition UAV" style="width:100%" class="img-rounded">
+            <h2 class="text-center">2020 Test Flight</h2>
+            <img src="images/2020_team.png" alt="First 2020 Test Flight" style="width:100%" class="img-rounded">
 
             <br />
             <hr />
@@ -46,6 +46,7 @@
                 <h4>Nathan Broman</h4>
                 <em>Aerospace Engineering</em>
                 <p>Aerial Robotics Captain</p>
+                <a href="mailto:nbroman@purdue.edu">nbroman@purdue.edu</a>
             <hr />
                 <div class="row text-center">
                     <!--Dakota Do-->
@@ -65,6 +66,12 @@
                         <h4>Hadi Ahmed</h4>
                         <em>Computer Engineering</em>
                         <p>Electrical Lead</p>
+                    </div>
+                    <!--Tyler Fedrizzi-->
+                    <div class= "col-md-4">
+                        <h4>Tyler Fedrizzi</h4>
+                        <em>Computer Engineering</em>
+                        <p>Autonomy Lead</p>
                     </div>
                     <!--Alex Zhang-->
                     <div class= "col-md-4">
