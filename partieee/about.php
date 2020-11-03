@@ -104,7 +104,7 @@
                     between the aircraft and its ground station, telemetry sensor data collection, creation of 
                     autonomous flight algorithms, and mission simulation design to rapidly validate and improve 
                     existing navigation algorithms. To accomplish these tasks, the plane is outfitted with various 
-                    sensors including an IMU, LIDAR, airspeed sensor, and GPS, among others. It's software is written 
+                    sensors including an IMU, airspeed sensor, and GPS, among others. It's software is written 
                     in C and Python.
                     <br /><br />
                     The electrical sub-team strives to design and implement robust, professional solutions on board 
