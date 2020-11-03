@@ -79,7 +79,6 @@
             <hr />
             <div class="row text-center">
                 <h2 id="events">Sub-teams</h2>
-                <!-- TODO need aeromech blub -->
                 <h3>Aeromechanical</h3>
                 <p>
                 The AeroMechanical sub-team of Purdue Aerial Robotics Team designs, builds, and tests a safe, 

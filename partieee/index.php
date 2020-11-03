@@ -41,8 +41,7 @@
             <h2 id="officers">Leadership</h2>
             <hr />
                 <!--Nathan Broman-->
-                <!--TODO wait for website update
-                <img src="../images/officers/2020_Nathan_Broman.jpg" alt= "2020_Nathan_Broman" class="img-circle" width=250px height=250px />-->
+                <img src="../images/officers/2020_Nathan_Broman.jpg" alt= "2020_Nathan_Broman" class="img-circle" width=150px height=150px />
                 <h4>Nathan Broman</h4>
                 <em>Aerospace Engineering</em>
                 <p>Aerial Robotics Captain</p>
